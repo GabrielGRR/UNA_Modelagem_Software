@@ -1,0 +1,11 @@
+ijaoisdjaiosdjaoij
+
+
+teste de git
+
+git add .
+git commit -m "teste de github"
+git push origin main
+
+cd
+ls
